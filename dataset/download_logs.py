@@ -6,6 +6,7 @@ import re
 import gzip
 from multiprocessing import Pool
 
+
 project_dir = os.path.abspath(Path(os.path.dirname(__file__)).parent)
 log_dir = os.path.join(project_dir, 'logs')
 headers = {

@@ -1,0 +1,39 @@
+{
+    "os": "macOS-14.3-arm64-arm-64bit",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-07-04T09:03:07.050457",
+    "startedAt": "2024-07-04T09:03:05.778027",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--num_layers",
+        "50",
+        "--epochs",
+        "10"
+    ],
+    "state": "running",
+    "program": "/Users/tianwentao/Desktop/test/sl_train/train_discard_model.py",
+    "codePath": "sl_train/train_discard_model.py",
+    "git": {
+        "remote": "https://github.com/Iriya99/test.git",
+        "commit": "bdcd331af6e8cf1ba527dafd0172b45034cc57d4"
+    },
+    "email": "tianwentao@xiaohongshu.com",
+    "root": "/Users/tianwentao/Desktop/test",
+    "host": "FX7HT6KXD6",
+    "username": "tianwentao",
+    "executable": "/Users/tianwentao/miniconda3/envs/test/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "total": 460.4317207336426,
+        "used": 139.39042282104492
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
